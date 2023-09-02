@@ -35,7 +35,7 @@ optional arguments:
   -l SIZE, --load SIZE  Packet payload size
 ```
 
-Ping example.com 4 times with 1s timeout:
+Ping example.com 4 times with 1 second timeout:
 
 ```
 python main.py -c 4 -w 1 example.com 
